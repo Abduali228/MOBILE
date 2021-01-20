@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6119CD6E-A2A2-4CCF-88D4-E2AE1E8353AF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0D90A7C-D1E9-4CAE-B55B-65087C6A2002"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Abu/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A0D90A7C-D1E9-4CAE-B55B-65087C6A2002 - 650cdae496cdc108"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Abu.ViewController.signInButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Abu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanzar/Desktop/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/Abu/Abu/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A0D90A7C-D1E9-4CAE-B55B-65087C6A2002 - 4e9d4873170d7084"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Abu.ViewController.signInButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Abu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanzar/Desktop/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/Abu/Abu/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "A0D90A7C-D1E9-4CAE-B55B-65087C6A2002 - c5a09403e3c0e738"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Abu.ViewController.signInButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Abu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanzar/Desktop/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/Abu/Abu/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "A0D90A7C-D1E9-4CAE-B55B-65087C6A2002 - 99ac1498bbcdc967"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Abu.ViewController.signInButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Abu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanzar/Desktop/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/Abu/Abu/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "A0D90A7C-D1E9-4CAE-B55B-65087C6A2002 - 4ac4ed8c664403d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Abu.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Abu.ViewController"
+                  moduleName = "Abu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanzar/Desktop/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/Abu/Abu/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "A0D90A7C-D1E9-4CAE-B55B-65087C6A2002 - b7875f710e20c363"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Abu.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Abu.ViewController&gt;"
+                  moduleName = "Abu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanzar/Desktop/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/Abu/Abu/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "541">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
